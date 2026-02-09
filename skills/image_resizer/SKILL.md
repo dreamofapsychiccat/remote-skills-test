@@ -48,6 +48,3 @@ cv2.resize(src, dsize[, dst[, fx[, fy[, interpolation]]]])
 The function returns a resized NumPy image that can be displayed, saved, or further processed.
 
 Use **either** explicit size (`dsize`) **or** scaling factors (`fx`, `fy`), not both simultaneously.
-
-
-
